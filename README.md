@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yoichi Yamamoto</h1>
-<h3 align="center">Fullstack developer, Gwalior🌟.</h3>
+<h3 align="center">Fullstack developer🌟.</h3>
 
 <br>
 
