@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yoichi Yamamoto</h1>
+<h1 align="center">Hi 👋, I'm Yamamoto</h1>
 <h3 align="center">Fullstack developer🌟.</h3>
 
 <br>
